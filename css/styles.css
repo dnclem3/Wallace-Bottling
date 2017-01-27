@@ -1,3 +1,5 @@
 .row-welcome {
   background-image: url('https://thumbs.trulia-cdn.com/pictures/thumbs_6/ps.96/a/0/3/3/picture-uh=d8c9b69e1591bd56391b73c9612ddb45-ps=a033839b47bce72e921684d42ed61e-719-N-Wallace-Ave-Bozeman-MT-59715.jpg');
+  background-size: cover;
+  height: 600px;
 }
