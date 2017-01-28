@@ -1,3 +1,7 @@
+body {
+  font-size: 16px;
+}
+
 .nav {
   background-color: white;
   border: 0px;
@@ -9,11 +13,10 @@
 
 .test {
   color: white;
-  background:rgba(0,0,0,0.5);
 }
 .jumbotron {
   margin-top: 0px;
-  background-image: url('https://thumbs.trulia-cdn.com/pictures/thumbs_6/ps.96/a/0/3/3/picture-uh=d8c9b69e1591bd56391b73c9612ddb45-ps=a033839b47bce72e921684d42ed61e-719-N-Wallace-Ave-Bozeman-MT-59715.jpg');
+  background-image: url('http://placehold.it/1600x900');
   background-size: cover;
   height: 500px;
   color: black;
@@ -34,4 +37,13 @@
 .img-col {
   max-height: 300px;
   width: 100%;
+}
+
+.row-map {
+  height: 400px;
+}
+
+.map {
+  width: 100%;
+  height: inherit;
 }
