@@ -18,15 +18,20 @@
   height: 500px;
   color: black;
 }
-#intro {
-  height: 300px;
+.intro {
   color: black;
+  padding-bottom: 30px;
 }
 
-#third-column {
-  height: 200px;
-}
 
 #address {
   float: right;
+}
+
+.img-slide {
+  height: 300px;
+}
+.img-col {
+  max-height: 300px;
+  width: 100%;
 }
