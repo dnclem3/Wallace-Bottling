@@ -16,10 +16,10 @@ body {
 }
 .jumbotron {
   margin-top: 0px;
-  background-image: url('http://placehold.it/1600x900');
+  background-image: url('http://lorempixel.com/1900/600/city/1');
   background-size: cover;
   height: 500px;
-  color: black;
+  color: white;
 }
 .intro {
   color: black;
@@ -45,5 +45,9 @@ body {
 
 .map {
   height: 400px;
-  width: 100%
+  width: 100%;
+}
+
+.highlight {
+  color: red;
 }
