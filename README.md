@@ -12,7 +12,7 @@ This website is for showcasing the properties on 810 N. Wallace in Bozeman, Mont
 
 * Place the entire 'wallace' folder onto any server or on your local machine
 * Open 'index.html' folder to test locally or the web address where your server is pointed
-* To clone repository: Type 'git clone {GITHUB Repo URL}' on your local machine
+* To clone repository: Type 'git clone https://github.com/dnclem3/Wallace-Bottling' on your local machine
 
 ## Known Bugs
 
