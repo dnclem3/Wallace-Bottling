@@ -24,8 +24,12 @@ body {
 .intro {
   color: black;
   padding-bottom: 30px;
+  display: none;
 }
 
+.clickable:hover {
+  text-decoration: underline;;
+}
 
 #address {
   float: right;
